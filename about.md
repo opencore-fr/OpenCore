@@ -1,0 +1,3 @@
+# 📝 About
+
+Ce projet à été créer par [Pressynou](https://pressynou.ch) et [Flutty](https://github.com/FluttyPNG) est n'est pas un projet officiel de [Dortonia](https://github.com/dortania), ce projet à juste pour but de traduire et de rendre OpenCore plus facile à comprendre pour les non anglophone. Nous recommandons à toutes les personnes qui savent lire et comprendre l'anglais d'aller sur [le guide de Dortonia](https://dortania.github.io/OpenCore-Install-Guide/) pour la création d'hackintosh, certaines infos sur ce guide ne peuvent être à jour à l'instant où les mise à jour du guide de Dortonia sont faites et demandent donc de les mettre à jour ce qui nécessite du temps.
