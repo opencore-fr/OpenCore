@@ -20,7 +20,16 @@
 
 ## 🛠 Configuration
 
-* [Page 2](configuration/page-2.md)
+* [PC De Bureau Intel](configuration/page-2/README.md)
+  * [Penryn](configuration/page-2/penryn.md)
+  * [Clarkdale](configuration/page-2/clarkdale.md)
+  * [Sandy Bridge](configuration/page-2/sandy-bridge.md)
+  * [Ivy Bridge](configuration/page-2/ivy-bridge.md)
+  * [Haswell](configuration/page-2/haswell.md)
+  * [Skylake](configuration/page-2/skylake.md)
+  * [Kaby Lake](configuration/page-2/kaby-lake.md)
+  * [Coffee Lake](configuration/page-2/coffee-lake.md)
+  * [Comet Lake](configuration/page-2/comet-lake.md)
 
 ## 🥳 Installation
 
