@@ -18,6 +18,11 @@
 * [Collecte de Fichiers](creation-cle-usb/collecte-de-fichiers.md)
 * [Démarrer avec les ACPI](creation-cle-usb/demarrer-avec-les-acpi.md)
 
+## 🔪 Démarrer avec les ACPI
+
+* [Démarrer avec les ACPI](demarrer-avec-les-acpi/demarrer-avec-les-acpi.md)
+* [Choisir les SSDTs](demarrer-avec-les-acpi/choisir-les-ssdts.md)
+
 ## 🛠 Configuration
 
 * [Config.plist pour PC Bureau Intel](configuration/page-2.md)
