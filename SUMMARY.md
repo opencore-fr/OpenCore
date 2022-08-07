@@ -21,7 +21,10 @@
 
 * [Démarrer avec les ACPI](demarrer-avec-les-acpi/demarrer-avec-les-acpi.md)
 * [Choisir les SSDTs](demarrer-avec-les-acpi/choisir-les-ssdts.md)
-* [Comment créer les SSDTs](demarrer-avec-les-acpi/comment-creer-les-ssdts.md)
+* [Comment créer les SSDTs](demarrer-avec-les-acpi/comment-creer-les-ssdts/README.md)
+  * [Pré-Compiler les SSDTs](demarrer-avec-les-acpi/comment-creer-les-ssdts/pre-compiler-les-ssdts.md)
+  * [SSDT : Chemin "facile et rapide"](demarrer-avec-les-acpi/comment-creer-les-ssdts/ssdt-chemin-facile-et-rapide.md)
+  * [SSDT : Chemin "long et chiant"](demarrer-avec-les-acpi/comment-creer-les-ssdts/ssdt-chemin-long-et-chiant.md)
 
 ## 🛠 Configuration
 
