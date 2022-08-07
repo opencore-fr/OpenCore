@@ -16,12 +16,12 @@
   * [Linux](creation-cle-usb/cree-la-cle-usb/linux.md)
 * [Ajout des fichiers principaux OpenCore](creation-cle-usb/ajout-des-fichiers-de-base.md)
 * [Collecte de Fichiers](creation-cle-usb/collecte-de-fichiers.md)
-* [Démarrer avec les ACPI](creation-cle-usb/demarrer-avec-les-acpi.md)
 
 ## 🔪 Démarrer avec les ACPI
 
 * [Démarrer avec les ACPI](demarrer-avec-les-acpi/demarrer-avec-les-acpi.md)
 * [Choisir les SSDTs](demarrer-avec-les-acpi/choisir-les-ssdts.md)
+* [Comment créer les SSDTs](demarrer-avec-les-acpi/comment-creer-les-ssdts.md)
 
 ## 🛠 Configuration
 

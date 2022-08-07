@@ -1,2 +1,0 @@
-# Démarrer avec les ACPI
-
