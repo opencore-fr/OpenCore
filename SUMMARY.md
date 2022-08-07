@@ -20,7 +20,7 @@
 
 ## 🛠 Configuration
 
-* [PC De Bureau Intel](configuration/page-2/README.md)
+* [Config.plist pour PC Bureau Intel](configuration/page-2.md)
   * [Penryn](configuration/page-2/penryn.md)
   * [Clarkdale](configuration/page-2/clarkdale.md)
   * [Sandy Bridge](configuration/page-2/sandy-bridge.md)
