@@ -1,6 +1,6 @@
 # Comment créer les SSDTs
 
-Creating SSDTs mainly fall into 3 camps:
+3 camps distincts : (tah koh'lanta)
 
 * [Pré-Compiler les SSDTs](pre-compiler-les-ssdts.md)
   * Ils sont universels mais n'apprennent pas beaucoup
