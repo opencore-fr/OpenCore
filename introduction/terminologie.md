@@ -37,7 +37,6 @@ Terme | Description
 **PMC** | Power Management Controller, sur les cartes mères B360, B365, H310, H370, Z390, les OEM ont oublié de cartographier cette région et ont donc besoin de SSDT-PMC pour éviter les défauts de page
 **PNLF** | Affichage de rétroéclairage interne, macOS utilise cet appareil PNLF pour envoyer et recevoir des informations pour le contrôle de la luminosité
 **XOSI/_OSI** | _OSI est utilisé pour déterminer quel système d'exploitation est en cours de démarrage, renommer XOSI nous permet de faire croire au matériel que nous démarrons un système d'exploitation différent
-
 **HPET** | Minuteur d'événements de haute précision, les systèmes d'exploitation l'utilisent pour déterminer comment communiquer avec les périphériques (IRQ). macOS peut être très pointilleux sur la configuration des périphériques, nous devons donc parfois corriger le HPET.
 **RHUB** | Hub USB racine, où les ports USB sont définis. Si certaines définitions manquent ici, les ports USB peuvent ne pas fonctionner sous macOS
 **IMEI** | Interface Intel Management Engine, gère diverses tâches. Dans macOS, Apple s'appuie sur l'IMEI pour l'accélération GPU Intel. Si vous utilisez un identifiant inconnu, comme l'utilisation d'un chipset de la série 7 avec Sandy Bridge, macOS ne pourra pas le trouver pour l'accélération GPU.
