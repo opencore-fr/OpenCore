@@ -16,6 +16,7 @@
   * [Linux](creation-cle-usb/cree-la-cle-usb/linux.md)
 * [Ajout des fichiers de base](creation-cle-usb/ajout-des-fichiers-de-base.md)
 * [???](creation-cle-usb/undefined.md)
+* [Collecte de Fichiers](creation-cle-usb/collecte-de-fichiers.md)
 
 ## 🛠 Configuration
 
