@@ -5,14 +5,14 @@
 Veuillez consulter la section ACPI spécifique de votre config.plist, tous les SSDT nécessaires y sont couverts avec un bref explicatif. Mais voici un très rapide.
 
 * Quels SSDT chaque plateforme à besoin
-  * \#desktop
-  * High End Desktop
-  * Laptop
-* SSDT Creation
+  * PC Bureau
+  * PC Bureau haut de gamme
+  * PC Portable
+* Création de ssdt
 
-### Desktop
+### PC Bureau <a href="#desktop" id="desktop"></a>
 
-|        Platforms        |                                                                  **CPU**                                                                 |    **EC**    |  **AWAC** | **NVRAM** |  **USB**  |
+|       Plateformes       |                                                                  **CPU**                                                                 |    **EC**    |  **AWAC** | **NVRAM** |  **USB**  |
 | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------: | :-------: | :-------: | :-------: |
 |          Penryn         |                                                                    N/A                                                                   |    SSDT-EC   |    N/A    |    N/A    |    N/A    |
 | Lynnfield and Clarkdale |                                                                    ^^                                                                    |      ^^      |     ^^    |     ^^    |     ^^    |
