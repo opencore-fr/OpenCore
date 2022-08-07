@@ -447,4 +447,4 @@ Continuing:
 |              Comet Lake              |                                          N/A                                          |                                           ^^                                          |
 |               Ice Lake               |                                           ^^                                          |                                           ^^                                          |
 
-## Maintenant que tout ça est fait, direction [Démarrer avec les ACPI](https://dortania.github.io/Getting-Started-With-ACPI/)
+## Maintenant que tout ça est fait, direction [Démarrer avec les ACPI](../demarrer-avec-les-acpi/demarrer-avec-les-acpi.md)
