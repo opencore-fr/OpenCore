@@ -37,7 +37,7 @@ Détectez simplement le type et la génération de votre matériel, puis téléc
 
 #### PC Bureau Penryn, Lynnfield and Clarkdale
 
-\<details>\<summary>SSDT Nécessaires\</summary>
+<details><summary>SSDT Nécessaires</summary>
 
 * [SSDT-EC-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-DESKTOP.aml)
 
@@ -45,7 +45,7 @@ Une fois téléchargés, placez les dans votre EFI dans EFI/OC/ACPI et retournez
 
 * [config.plist ](pre-compiler-les-ssdts.md#intel-desktop-ssdts)
 
-\</details>
+</details>
 
 ::: details In-depth info on the SSDTs
 
