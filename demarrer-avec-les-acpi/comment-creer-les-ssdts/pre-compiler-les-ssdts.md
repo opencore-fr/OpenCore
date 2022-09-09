@@ -37,27 +37,44 @@ Détectez simplement le type et la génération de votre matériel, puis téléc
 
 #### PC Bureau Penryn, Lynnfield and Clarkdale
 
-<details><summary>SSDT Nécessaires</summary>
+<details>
+
+<summary>SSDT Nécessaires</summary>
 
 * [SSDT-EC-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-DESKTOP.aml)
 
 Une fois téléchargés, placez les dans votre EFI dans EFI/OC/ACPI et retournez au guide d'installation
 
-* [config.plist ](pre-compiler-les-ssdts.md#intel-desktop-ssdts)
+* [config.plist](pre-compiler-les-ssdts.md#intel-desktop-ssdts)
 
 </details>
 
-::: details In-depth info on the SSDTs
+Infos plus en profondeur sur les SSDTs :
 
 SSDT-EC:
 
-* Used for disabling your real Embedded controller and creating a fake one for macOS to play with
+* Utilisé pour désactiver votre réel contrleur embarqué et en faire un faux pour que macOS puisse jouer avec
 
-:::
-
-#### Desktop Sandy and Ivy Bridge
+#### Sandy et Ivy Bridge pour PC Bureau
 
 ::: tip SSDTs required
+
+<details>
+
+<summary>SSDT Nécessaires</summary>
+
+* [SSDT-EC-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-DESKTOP.aml)
+* [SSDT-IMEI](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-IMEI.aml)
+  * nécessaire pour les CPU Sandy Bridge avec des carte mères de série 7
+    * ex: B75, Q75, Z75, H77, Q77, Z77
+  * nécessaire pour les CPU Ivy Bridge avec des carte mères de série 6
+    * ex: H61, B65, Q65, P67, H67, Q67, Z68
+
+Une fois téléchargé, mettez les dans votre dossier EFI sous EFI/OC/ACPI et direction le guide d'installation
+
+* [Configuration des config.plist](broken-reference)
+
+</details>
 
 * [SSDT-EC-DESKTOP](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-EC-DESKTOP.aml)
 * [SSDT-IMEI](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-IMEI.aml)
